@@ -1,0 +1,9 @@
+Restaurante Bom Prato
+
+Abra ProjetoAula.sln no Visual Studio.
+Pressione F5 para executar.
+Para editar as telas, clique com o botão direito no arquivo do formulário e escolha Exibir Designer.
+
+A tela Fechamento foi reorganizada: os textos e controles que estavam na posição (0, 0)
+agora têm posição e texto definidos. As pastas temporárias do Visual Studio serão recriadas
+automaticamente quando o projeto for aberto.
